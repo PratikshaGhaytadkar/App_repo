@@ -21,6 +21,8 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-	
-  </dependencies>
+ </dependencies>
+    <build>
+      <finalName>boat_app</finalName>
+    </build>
 </project>
